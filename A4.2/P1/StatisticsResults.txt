@@ -1,0 +1,63 @@
+Stadistics for TC1.txt
+Count = 400
+Mode = 170.0
+Mean = 242.32
+Median = 240.0
+Standard Deviation = 145.25810683056557
+Variance = 21099.917599999997
+Execution time = 0.0
+
+Stadistics for TC2.txt
+Count = 1977
+Mode = 230.0
+Mean = 250.7840161861406
+Median = 246.5
+Standard Deviation = 144.17131868884059
+Variance = 20785.369132479238
+Execution time = 0.015444755554199219
+
+Stadistics for TC3.txt
+Count = 12624
+Mode = 94.0
+Mean = 249.77621989860583
+Median = 249.0
+Standard Deviation = 145.31784980917962
+Variance = 21117.27747316329
+Execution time = 0.016159534454345703
+
+Stadistics for TC4.txt
+Count = 12624
+Mode = 75.0
+Mean = 8549.254990494297
+Median = 2715.0
+Standard Deviation = 11104.281240332493
+Variance = 123305061.86440013
+Execution time = 2.3214690685272217
+
+Stadistics for TC5.txt
+Count = 311
+Mode = 11.0
+Mean = 249.63987138263664
+Median = 243.5
+Standard Deviation = 195.1957848498133
+Variance = 38101.3944231346
+Execution time = 0.0
+
+Stadistics for TC6.txt
+Count = 3000
+Mode = 3.84322229471239e+18
+Mean = 1.8790659927977413e+22
+Median = 1.88057801093124e+22
+Standard Deviation = 1.073820501738099e+22
+Variance = 1.1530904699530628e+44
+Execution time = 0.0941925048828125
+
+Stadistics for TC7.txt
+Count = 12769
+Mode = 0.0
+Mean = 2.474286348457106e+22
+Median = 2.46596454895332e+22
+Standard Deviation = 1.4462748147977594e+22
+Variance = 2.0917108399182934e+44
+Execution time = 0.39215826988220215
+
