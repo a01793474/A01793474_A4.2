@@ -27,17 +27,17 @@ def get_data(path):
     """ Function to read txt file and remove non numeric characters"""
     data=[]
 
-    with open(path,encoding='utf-8') as file:
-        data=file.readlines()
-        file.close()
+    file = open(path,encoding='utf-8')
+    data=file.readlines()
+    file.close()
 
-    for i in enumerate(data):
+    for i,_ in enumerate(data):
         data[i] = data[i].replace("\n","")
         if not data[i].isdigit():
             print("Non numeric characters found and removed.")
             parce = ""
             for j in data[i]:
-                if j.isdigit:
+                if j.isdigit():
                     parce = parce+j
 
             if len(parce) > 0:
